@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Detta är min coola awesome swayig app</h1>
+        <h2>Tomatjuice och lime, är det en drink?</h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
